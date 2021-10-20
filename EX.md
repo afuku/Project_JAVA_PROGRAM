@@ -1,1 +1,2 @@
-This is the EXAMPLE
+
+This is the example files.
